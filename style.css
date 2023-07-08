@@ -15,6 +15,9 @@ input{
     margin: auto;
     padding: 30px;
 }
+div{
+    word-wrap: break-word;
+}
 #inicio{
     margin: 20px;
 }
